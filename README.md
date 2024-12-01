@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Berzan42
+- 👋 Hi, I’m @Mupa422
 - 👀 I’m interested in nothing xD
 - 🌱 I’m currently learning Python and C
 - 💞️ I’m looking to collaborate on ...
